@@ -2,6 +2,8 @@
 
 Get a colorful rainbow string using chalk
 
+![sbqly4onyjptoxpdwyypqmpzrky_bkbhnufsheacnky](https://cloud.githubusercontent.com/assets/1424573/16388265/97267350-3c55-11e6-81e6-89eb2565dde2.png)
+
 ## Installation
 
 ```bash
